@@ -1,0 +1,191 @@
+[{
+        "id": 1,
+        "autor": "Sandra Camacho Rivera, Laura Aguiló Travé",
+        "titulo": "cadira EPS",
+        "srcimg": "https://raw.githubusercontent.com/sandracamachorivera/cadiraeps/main/corporativa.png",
+        "alt": "Isotip de cadira EPS",
+        "texto": "Creació d'una imatge corporativa per la marca cadira EPS",
+        "url": "https://sandracamachorivera.github.io/cadiraeps/"
+    },
+    {
+        "id": 2,
+        "autor": "Àgueda Camarasa i Aran Calvet",
+        "titulo": "Blockbusters",
+        "srcimg": "https://raw.githubusercontent.com/aguedacamarasa/blockbusters/main/IMG_1835.jpg",
+        "alt": "Escena de la pel·lícula lo imposible",
+        "texto": "Blockbusters és un petit espai digital per fer un recorregut en la història del cinema i veure les pel·lícules més taquilleres en els últims temps. En aquesta plataforma, els  usuaris podran trobar informació i altres continguts com imatges o enllaços a tràilers.",
+        "url": "https://aguedacamarasa.github.io/blockbusters/"
+    },
+    {
+        "id": 3,
+        "autor": "Maria Campos Meseguer & Marina Also Cardona",
+        "titulo": "Museo Contempart",
+        "srcimg": "https://raw.githubusercontent.com/mariacampos7/contempart.github.io/main/portadaweb.jpg",
+        "alt": "Portada Museo Contempart",
+        "texto": "Descubre el arte Vanguardista y algunos de sus máximos exponentes",
+        "url": "https://mariacampos7.github.io/contempart.github.io/"
+    },
+    {
+        "id": 4,
+        "autor": "Emma Cosculluela Chimeno",
+        "titulo": "50 yr. of femininity",
+        "srcimg": "https://raw.githubusercontent.com/emmacosculluela/50-YR.-OF-FEMININITY/main/Icon.png",
+        "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
+        "texto": "Pàgina web que dona informació sobre la moda femenina els últims 50 anys, centrant-se en les tendències més rellevants de cada dècada per veure l’evolució. Així doncs, té l’objectiu d’informar i entretenir.",
+        "url": "https://emmacosculluela.github.io/50-YR.-OF-FEMININITY/"
+    },
+    {
+        "id": 5,
+        "autor": "WALID EL KHOUMMADI & ALFONSO ALEGRE CEBRIÁN",
+        "titulo": "CADIRA EPS",
+        "srcimg": "https://raw.githubusercontent.com/walidelk/cadirae.github.io/main/portada.png",
+        "alt": "CADIRA EPS",
+        "texto": "Ya que tenemos que crear una Silla en la asignatura de  artes aplicadas al diseño este año, tuvimos la idea de hacer nuestra landing page sobre la marca que creamos:CADIRA EPS",
+        "url": "https://walidelk.github.io/cadirae.github.io/cadiraeps.html"
+    },
+    {
+        "id": 6,
+        "autor": "Eric Aparicio, Bernat Erta, Àlex Cuéllar",
+        "titulo": "Cadira EPS",
+        "srcimg": "https://ertamajo400.github.io/img/fotoweb.jpg",
+        "alt": "Aquí pots trobar el feed de la nostra página",
+        "texto": "La nostra web representa la web d'una empresa especialitzada en cadires i butaques de Lleida la qual recull les dades de com es treballa a l'empresa i fa una breu introducció als valors, la visió i els objectius que té l'empresa. També es mostra diferents tipus de cadires que s'han fet i les seves ressenyes.",
+        "url": "https://ertamajo400.github.io"
+    },
+    {
+        "id": 9,
+        "autor": "Anna Aiguadé i Ariadna Gras",
+        "titulo": "KUB",
+        "srcimg": "https://github.com/Aryadna12/Aryadna12.github.io/blob/main/kubimg.png?raw=true",
+        "alt": "Imatge amb el logo de la marca i un producte de cosmètica",
+        "texto": "Pàgina web de cosmètica natural",
+        "url": "https://aryadna12.github.io/landing%20page/"
+    },
+    {
+        "id": 12,
+        "autor": "Anna Guiu y Paula López",
+        "titulo": "Dreamers trip",
+        "srcimg": "https://www.planetware.com/photos-large/N/norway-attractions-bryggen-hanseatic-wharf.jpg",
+        "alt": "Logo y con slogan de nustar página web",
+        "texto": "Nuestra web Dreamers trip es un blog de viajes en el que ofrecemos contenido sobre 3 países nódicos: Noruega, Finlandia e Islandia",
+        "url": "https://anna2000guiu.github.io/PRACTICA-1-Landing-page-/"
+    },
+    {
+        "id": 7,
+        "autor": "Alex Fernandez Mateu",
+        "titulo": "ArTec Festival Creatiu",
+        "srcimg": "https://lamaletacreativa.com/wp-content/uploads/2021/06/logos_LMC-2.png",
+        "alt": "Captura de pantalla del proyecto de la parte inicial de la landing page",
+        "texto": "Es una landing page creada para promocionar un festival real que tendrá lugar en Febrero de 2022 en Lleida, organizado por La Maleta Creativa",
+        "url": "https://www.lamaletacreativa.com"
+    },
+    {
+        "id": 8,
+        "autor": "Pol González y Sergi Martínez",
+        "titulo": "Pàgina Web Zoner",
+        "srcimg": "",
+        "alt": "Texto alternativo de la imágen",
+        "texto": "Nuestra pagina se basa en todo tipo de productos gaming para todo el mundo, desde teclados a ratones",
+        "url": "https://sergitinez.github.io/zoner/"
+    },
+    {
+        "id": 10,
+        "autor": "Joan Griñán, Sergi Ortiz",
+        "titulo": "ManinesRoms",
+        "srcimg": "https://aaramisaudita.github.io/webdinamica1.0.3/images/ds/inazuma1.jpeg",
+        "alt": "portada del juego inazuma eleven ventisca eterna para ds",
+        "texto": "Esta es una página web de roms, es a dir, per descarregar jocs pirata de consoles antigues",
+        "url": "https://aaramisaudita.github.io/webdinamica1.0.3/maninesroms.html"
+    },
+    {
+        "id": 11,
+        "autor": "Sara Hidalgo i Adrià Sánchez",
+        "titulo": "Els Meus Viatges",
+        "srcimg": "",
+        "alt": "Previsualització de la web Els Meus Viatges",
+        "texto": "És una web personal on apareixen fotografies de viatges que hem visitat",
+        "url": ""
+    },
+
+    {
+        "id": 13,
+        "autor": "Sami Marhaoui Bennij",
+        "titulo": "AQUA",
+        "srcimg": "https://picsum.photos/1024/480?random=1/",
+        "alt": "Texto alternativo de la imágen",
+        "texto": "Pàgina web per a informar a la gent de que el mar necessita que el cuidin",
+        "url": "https://afrikiudl.github.io/practicawd/"
+    },
+    {
+        "id": 14,
+        "autor": "Alejandro García & Gemma Martín",
+        "titulo": "Práctica 1. Landing page",
+        "srcimg": " https://gmar0.github.io/landingpage/menuWeb.png",
+        "alt": "Captura del menú-índice de nuestra web",
+        "texto": "La web contiene información y algunas fotos de las ciudades de las que venimos o hemos visitado uno u otro a lo largo de nuestra vida",
+        "url": "https://gmar0.github.io/landingpage/"
+    },
+    {
+        "id": 15,
+        "autor": "Núria Masó Juvanteny",
+        "títol": "Nest",
+        "srcimg": "https://nuriaamaso.github.io/Landingpage/img/logo.png",
+        "alt": "La gran sabana",
+        "texto": "Web d'una entitat que lluita per defensar els drets dels animals del món salvatge en concret de la sabana.",
+        "url": "https://nuriaamaso.github.io/Landingpage/"
+    },
+    {
+        "id": 17,
+        "autor": "Marta Pons  & Alejandra Retto",
+        "titulo": "Pantone #001",
+        "srcimg": "https://raw.githubusercontent.com/mpr16/pantone.001/9b9391584404dc7a752254fe16f483059c4464a7/imatges/2.jpg",
+        "alt": "Es una imagen de la página web, donde vemos el pantone y una fotografia.",
+        "texto": "Pantone #001, se basa en las estaciones del año. Ahora mismo se basa la temporada de otoño, por lo tanto encontramos elementos componentes y características de cada temporada. Además, de cada temporada es una immersión llena de colores y tonalidades.",
+        "url": "https://mpr16.github.io/pantone.001/"
+    },
+    {
+        "id": 18,
+        "autores": "Arnau Riera i Loris Combe",
+        "tÌtulo": "Pr‡ctica 1 - Landing page - VÍtements",
+        "srcimg": "https://raw.githubusercontent.com/Loriscbe/Loriscbe.github.io/main/Images/logo-2.png",
+        "alt": "Nuestro logotipo, que representa un traje de hombre, y el nombre de la marca, 'VÍtements'.",
+        "texto": "Hemos creado un sitio web para ropa de hombre. Ofrecemos camisetas, sudaderas y camisas. La marca se llama 'VÍtements'.",
+        "url": "https://github.com/Loriscbe/Trabajo-Web-dinamica.git"
+    },
+    {
+        "id": 19,
+        "autor": "Jon Gómez e Iván Romero",
+        "titulo": "ManinesGangaWeb",
+        "srcimg": "https://raw.githubusercontent.com/ChaoticIvan/WebManines/1d9d899f5392431531e5e77009833bfd7e2e7297/ManinesGangaWeb/media/icons/ManinesGangaLogo.svg",
+        "alt": "Logo Manines Ganga Productions",
+        "texto": "Página web de la productora Manines Ganga",
+        "url": "https://github.com/ChaoticIvan/WebManines"
+    },
+    {
+        "id": 20,
+        "autores": "Doae Moudden Ansari, Elena Sánchez Alberca",
+        "título": "ETRA PRINTS",
+        "srcimg": "https://doaemoudden.github.io/imagen-prints/",
+        "alt": "Pared con impresiones de dibujos colagados",
+        "texto": "Página web con el objetivo de promocionar nuevos artistas con un apartado de venta de prints",
+        "url": "https://doaemoudden.github.io/etra-prints/"
+    },
+    {
+        "id": 21,
+        "autor": "Maria Torres Bergadà",
+        "titulo": "Fotògrafes del segle XXI",
+        "srcimg": "https://raw.githubusercontent.com/mnfug31/foto/bcd53aff0b489bde86503735b894e6d581da6d26/IMG_0367.JPG",
+        "alt": "Fotografia d'una làmpada de sal, juga amb la intensitat del color",
+        "texto": "La web és un recull fotogràfic de diverses fotògrafes que m'agraden i que utilitzen la fotografia com a eina per transmetre la forma en que veuen el món.",
+        "url": "https://github.com/mnfug31/Pr-ctica-1"
+    },
+    {
+        "id": 22,
+        "autor": "David Uribe Salazar",
+        "titulo": "Protectora del habitat animal",
+        "srcimg": "https://raw.githubusercontent.com/daviduribesalazar/Practica-1-web-dinamica/master/imagenes/articulos/apadrina.jpg",
+        "alt": "Un tigre en recuperación, protegido en el centro de la protectora animal",
+        "texto": "Una página de una protectora de animales, el propósito de la web es educar, concienciar e incentivar a la gente a proteger a los animales.",
+        "url": "https://daviduribesalazar.github.io/Practica-1-web-dinamica/"
+    }
+]
